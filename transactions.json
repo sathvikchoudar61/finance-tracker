@@ -1,0 +1,16 @@
+[
+    {
+        "name": "das",
+        "amount": 100.0,
+        "description": "eer",
+        "type": "receive",
+        "datetime": "dd-MM-yyyy HH:mm:ss"
+    },
+    {
+        "name": "ee",
+        "amount": 23.0,
+        "description": "rrr",
+        "type": "receive",
+        "datetime": "14-05-2025 23:34:02"
+    }
+]
